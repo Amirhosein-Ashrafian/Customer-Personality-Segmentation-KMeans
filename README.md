@@ -59,9 +59,12 @@ I used this data to group customers into segments using KMeans clustering.
 
 ## Files Included
 
-* Customer_Segmentation_KMeans.ipynb – The main notebook with code and analysis
-* marketing_campaign.csv – The dataset used for clustering
-* README.md – This file
+- `Customer_Segmentation_KMeans.ipynb` – Jupyter notebook containing the full code, visualizations, and analysis  
+- `marketing_campaign.csv` – The dataset used for customer segmentation  
+- `requirements.txt` – List of Python libraries required to run the project  
+- `README.md` – Project overview and documentation  
+- `.gitignore` – Optional file to exclude unnecessary system or environment files
+
 
 ## Final Thoughts
 
