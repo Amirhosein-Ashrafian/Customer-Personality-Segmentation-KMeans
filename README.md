@@ -1,4 +1,4 @@
-# Customer Segmentation Using KMeans Clustering
+# Customer Segmentation and Personality Analysis Using KMeans Clustering
 
 In this project, I explored how unsupervised learning can be used to segment customers based on demographic and behavioral data. The goal was to identify distinct customer groups that could help businesses make better marketing and product decisions.
 
